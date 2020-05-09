@@ -1,5 +1,5 @@
 # Zoocasa crawler
-Scrapes the listings from Zoocasa.
+Scrapes the listings from Zoocasa for property information and prices.
 
 For it to work, you need to install Scrapy (probably using "pip install scrapy").
 
